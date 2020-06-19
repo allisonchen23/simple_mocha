@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/allisonchen23/simple_mocha#readme",
   "devDependencies": {
+    "chai": "^4.2.0",
     "mocha": "^8.0.1"
   }
 }
