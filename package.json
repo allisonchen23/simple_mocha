@@ -1,0 +1,22 @@
+{
+  "name": "simple_mocha",
+  "version": "1.0.0",
+  "description": "script to run simple mocha script with multiple iterations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allisonchen23/simple_mocha.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allisonchen23/simple_mocha/issues"
+  },
+  "homepage": "https://github.com/allisonchen23/simple_mocha#readme",
+  "devDependencies": {
+    "mocha": "^8.0.1"
+  }
+}
